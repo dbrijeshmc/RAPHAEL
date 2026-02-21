@@ -1,2 +1,1 @@
-# RAPHAEL
-An AI image generator which uses basic Web Page languages and python back end tools to generate images using API of third part source
+My Personal Workspace where I constantly try to do things and projects. I use it for managing my tasks and schedules. If you have access to this it means you are very special to me so have fun surfing 😊
