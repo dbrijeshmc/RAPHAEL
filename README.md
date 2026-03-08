@@ -1,4 +1,4 @@
-# 👋 Welcome to RAPHAEL
+# 👋 Welcome to MY GITHUB PORTOFOLIO
 
 > My personal workspace where I build, experiment, and organize my projects.
 
